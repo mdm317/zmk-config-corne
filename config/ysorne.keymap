@@ -249,7 +249,7 @@
 
         custom {
             bindings = <
-&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &soft_off  &trans
+&trans  &kp C   &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &soft_off  &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans     &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans     &trans
                         &trans  &trans  &trans    &trans  &trans  &trans
