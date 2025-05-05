@@ -247,9 +247,9 @@
 
         custom {
             bindings = <
-&trans  &kp C   &trans  &trans  &trans  &bootloader    &trans  &trans  &trans  &trans  &soft_off  &trans
-&trans  &trans  &trans  &trans  &trans  &trans         &trans  &trans  &trans  &trans  &trans     &trans
-&trans  &trans  &trans  &trans  &trans  &trans         &trans  &trans  &trans  &trans  &trans     &trans
+&trans  &kp C   &trans  &trans  &trans  &bootloader    &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans         &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans         &trans  &trans  &trans  &trans  &trans  &trans
                         &trans  &trans  &trans         &trans  &trans  &trans
             >;
 
